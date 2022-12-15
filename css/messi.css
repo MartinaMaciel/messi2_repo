@@ -1,0 +1,42 @@
+.carta {
+  background-color: #0a8adf;
+  display: flex;
+  height: 500px; }
+  .carta_titulo {
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; }
+  .carta .carta_img {
+    height: 400px;
+    width: 400px; }
+  .carta .carta_parrafo {
+    color: white;
+    font-size: 16px;
+    text-align: center; }
+
+.class_nav {
+  background-color: #5bd8e9;
+  position: sticky;
+  top: 0px; }
+  .class_nav li {
+    color: #081a1a;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    width: 15%;
+    text-align: center; }
+
+li {
+  color: #081a1a;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  width: 15%;
+  text-align: center; }
+
+h1 {
+  color: red;
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center; }
